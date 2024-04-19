@@ -1,4 +1,20 @@
 .webpage_title
 {
     font-family: "Lucida Handwriting", cursive;
+    text-align: center;
+}
+
+#titlebreak {
+    width: 50%;
+    height: 0px;
+}
+
+.LeftMenu {
+    font-size: 50px;
+    font-family: "Lucida Handwriting", cursive;
+}
+
+.RightMenu {
+    font-family: "Lucida Handwriting", cursive;
+    
 }
